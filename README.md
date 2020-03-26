@@ -16,5 +16,7 @@ Training data used in this project:
 	2. Use HR images as prior information, warp the HCP data to a HR space for artificial data
 	3. The crude segmentation is done using SPM toolbox
 
+
+
 This script is revised from:
 https://github.com/brade31919/SRGAN-tensorflow
