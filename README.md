@@ -17,6 +17,14 @@ Training data used in this project:
 	3. The crude segmentation is done using SPM toolbox
 
 
-
 This script is revised from:
 https://github.com/brade31919/SRGAN-tensorflow
+
+## Pictures
+### Unet strcture
+![Unet Structure](pic/4.png)
+### Synthetic Data Generation Flowchart
+![Flowchart](pic/1.png)
+### Test result
+![ResNet vs Unet](pic/6.png)
+![Unet vs ground truth](pic/5.png)
